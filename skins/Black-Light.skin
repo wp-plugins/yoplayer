@@ -7,7 +7,7 @@
  *
  * This skin is part of the Yoplayer plugin for Wordpress
  *
- * Copyright (C) 2013 Yospace Technologies Ltd
+ * Copyright (C) 2013 - 2014 Yospace Technologies Ltd
  */
 {
     "Extends": "int://internal.skin",

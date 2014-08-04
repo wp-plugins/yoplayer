@@ -1,9 +1,9 @@
 <?php
 /**
  * @package yoplayer
- * @version 2.1.29.1
+ * @version 2.1.30.2
  *
- * Copyright (C) 2013 Yospace Technologies Ltd. All rights reserved
+ * Copyright (C) 2013 - 2014 Yospace Technologies Ltd. All rights reserved
  */
 /*
 Plugin Name: Yoplayer

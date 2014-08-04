@@ -1,9 +1,10 @@
 === Yoplayer ===
+Version: 2.1.30.3
 Contributors: yospace
 Tags: yoplayer, yospace, video
 Requires at least: 3.0
 Tested up to: 3.9.1
-Stable tag: 2.1.30.2
+Stable tag: 2.1.30.3
 License: GPLv2 or later
 
 Yoplayer allows you to play videos from your yospaceCDS account in your WordPress website
@@ -25,16 +26,18 @@ For ease of use, parameters which are often the same, such as fid and skin,
 may be set to site-wide defaults configured through the settings page.
 
 Yoplayer features:
-*) Automatically supports Web (Using Flash), iOS and Android (Using HTML5).
-*) Playback video files (So long as the browser or flash supports them)
-*) Google IMA advertising (Supports virtually all VAST and VPAID advertising)
-*) Playback HLS video streams, both Live and VoD. *
-*) CEA608 and WebVTT Closed Captions (HLS Only) **
-*) Client side interactivity for server side advert insertion ***
+ * Automatically supports Web (Using Flash), iOS and Android (Using HTML5).
+ * Playback video files (So long as the browser or flash supports them)
+ * Google IMA advertising (Supports virtually all VAST and VPAID advertising)
+ * Playback HLS video streams, both Live and VoD. (1)
+ * CEA608 and WebVTT Closed Captions (HLS Only) (2)
+ * Client side interactivity for server side advert insertion (3)
 
-* Playback from yospaceCDS. Other domains require a licence.
-** Requires a licence.
-*** Requires a licence and content delivered using yospaceCDS.
+(1) Playback from yospaceCDS. Other domains require a licence.
+
+(2) Requires a licence.
+
+(3) Requires a licence and content delivered using yospaceCDS.
 
 == Frequently Asked Questions ==
 

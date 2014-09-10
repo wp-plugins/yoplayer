@@ -1,10 +1,10 @@
 === Yoplayer ===
-Version: 2.1.30.3
+Version: 2.1.33.1
 Contributors: yospace
 Tags: yoplayer, yospace, video
 Requires at least: 3.0
-Tested up to: 3.9.1
-Stable tag: 2.1.30.3
+Tested up to: 4.0.0
+Stable tag: 2.1.33.1
 License: GPLv2 or later
 
 Yoplayer allows you to play videos from your yospaceCDS account in your WordPress website
@@ -67,6 +67,10 @@ The following features are available to licenced users:
 Upload the plugin your your WordPress site then click activate.
 
 == Changelog ==
+
+= 2.1.33 =
+* Upgraded yoplayer to version 2.1 build 33
+* Fixed a typo in yoplayer.php
 
 = 2.1.30 =
 * Upgraded yoplayer to version 2.1 build 30

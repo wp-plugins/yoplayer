@@ -114,10 +114,10 @@ $YOPLAYERHERE(
     if ($values['url']) {
         if ($values['type']) {
             $retval .= ',
-        "type": ' . $values['type'] . '"';
+        "type": "' . $values['type'] . '"';
         }
         $retval .= ',
-        "file": ' . $values['url'] . '"';
+        "file": "' . $values['url'] . '"';
     } else if ($values['bsid']) {
         $retval .= ',
         "live": true,

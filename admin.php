@@ -1,9 +1,9 @@
 <?php
 /**
  * @package yoplayer
- * @version 2.1.38.5
+ * @version 2.1.40.1
  *
- * Copyright (C) 2013 - 2014 Yospace Technologies Ltd. All rights reserved
+ * Copyright (C) 2013 - 2015 Yospace Technologies Ltd. All rights reserved
  */
 
 /*===========================================================================*

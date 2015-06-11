@@ -1,9 +1,9 @@
 <?php
 /**
  * @package yoplayer
- * @version 2.1.38.5
+ * @version 2.1.40.1
  *
- * Copyright (C) 2013 - 2014 Yospace Technologies Ltd. All rights reserved
+ * Copyright (C) 2013 - 2015 Yospace Technologies Ltd. All rights reserved
  */
 /*
 Plugin Name: Yoplayer
@@ -11,7 +11,7 @@ Plugin URI: http://www.yospace.com/index.php/hls-sdk-for-flash-overview.html
 Description: Yospace, the leader in n-screen delivery, present Yoplayer based on their world beating Flash HLS-SDK technology allowing playback of the widest range of video formats in a single player. Coupled with this is out of the box support for Google IMA for content monetization. Yoplayer for Wordpress allows you to provide a Yospace Media Item ID and Feed ID from your Yospace account and it takes care of selecting the appropriate video format, metadata (title, description etc) with any further user configuration.
 Author: Yospace Technologies Ltd
 Author URI: http://www.yospace.com
-Version: 2.1.38.5
+Version: 2.1.40.1
 Licence: GPLv2 or later
 */
 
@@ -24,7 +24,7 @@ if ( !function_exists( 'add_action' ) ) {
     exit;
 }
 
-define('YOPLAYER_VERSION', '2.1');
+define('YOPLAYER_VERSION', '2.1-40');
 define('YOPLAYER_PLUGIN_URL', plugin_dir_url( __FILE__ ));
 
 /*===========================================================================*
